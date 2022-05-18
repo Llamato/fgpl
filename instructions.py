@@ -25,9 +25,9 @@ instructions = [
     Instruction("jmp", "7/9/1/3", 1, 1),
     Instruction("cpi", "741236985", 1, 1),
     Instruction("cpa", "7896321475", 1, 1),
-    Instruction("blt", "654S", 1, 1),
-    Instruction("bgt", "456S", 1, 1),
-    Instruction("beq", "5S", 1, 1)
+    Instruction("blt", "654s", 1, 1),
+    Instruction("bgt", "456s", 1, 1),
+    Instruction("beq", "5s", 1, 1)
 ]
 
 
