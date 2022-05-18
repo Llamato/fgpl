@@ -1,6 +1,6 @@
 # fgpl The Fighting Game Programming Language
 
-FGPL was created to to answer one simple question. Can you make a programming language you can write with an arcade stick or an all button controller typically used to play fighting games.
+FGPL was created to answer one simple question. Can you make a programming language you can write with an arcade stick or an all button controller typically used to play fighting games.
 
 ## How it works
 
