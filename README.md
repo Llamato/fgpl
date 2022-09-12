@@ -32,7 +32,7 @@ As of the writing of this document the following instructions are implemented.
 | bgt addr  | 456sd6(addr)d        | branch if at last cp value in a was greater |
 | beq addr  | 5sd(addr)d           | branch if at last cp values were equal      |
 
-More instuctions will be added. (I hope). I am also currently expiremnting with a better way to input numbers as some input combos are next to impossible with a fighting game controller. 91 for example would become 951 making the number 91 impossible to enter. As soon as I found a good soultion the programming language will be updated.
+More instuctions will be added. (I hope). I am also currently expiremnting with a better way to input numbers as some input combos are next to impossible with a fighting game controller. 91 for example would become 951 making the number 91 impossible to enter. As soon as I found a good solution the programming language will be updated.
 
 If you got any suggestions as on how to improve this language please let me know.
 Code contribuitons are also very welcome.
