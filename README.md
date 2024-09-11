@@ -17,7 +17,7 @@ As of the writing of this document the following instructions are implemented.
 
 | mnemonic  | input code / op code | Description                                 |
 |-----------|----------------------|-------------------------------------------- |
-| ldi value | 4pd(value)d          | Load an imidate value to register a         |
+| ldi value | 4pd(value)d          | Load an immediate value to register a         |
 | lds addr  | 47kd(addr)d          | Load value at addr to register a            |
 | ldr addr  | 41kd(addr)d          | Load value at address stored in addr into a |
 | sts addr  | 69kd(addr)d          | Store value in a to addr                    |
