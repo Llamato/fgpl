@@ -2,7 +2,7 @@ import instructions
 
 
 class InvalidCommandError(Exception):
-    Message = "Invalid command error. assembly stoped"
+    Message = "Invalid command error. assembly stopped"
     Code = 1
 
 

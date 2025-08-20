@@ -1,14 +1,14 @@
-#Numbers are inputed though numpad alpabet with offsets for 5
+#Numbers are inputted though numpad alphabet with offsets for 5
 #Each command is terminated by an (Enter / Dust) press
 
 enter_key = "d"
 
 
 class Instruction:
-    def __init__(self, mnemonic, opcodes, operants, cycles):
+    def __init__(self, mnemonic, opcodes, operands, cycles):
         self.mnemonic = mnemonic
         self.opcodes = opcodes.split("/")
-        self.operants = operants
+        self.operands = operands
         self.cycles = cycles
     pass
 

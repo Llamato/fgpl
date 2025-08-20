@@ -24,7 +24,7 @@ def disassemble_all(opcodes):
             current_opcode = current_opcode + 1
             continue
         mnemonic = instruction.mnemonic
-        for current_operand in range(0, instruction.operants):
+        for current_operand in range(0, instruction.operands):
             current_opcode = current_opcode + 1
             mnemonic = mnemonic + " " + opcodes[current_opcode]
         mnemonics.append(mnemonic)
